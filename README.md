@@ -1,4 +1,5 @@
 # Multi-Layer Custom Encryption & Decryption in Pure Python
+*Created by Boxadmin1*
 
 This repository contains a pure Python implementation of a multi-layer encryption and decryption algorithm. The program uses a combination of classical and custom techniques to provide a more complex cipher than basic methods, while remaining fully self-contained and requiring **no external dependencies** or imports.
 
